@@ -55,12 +55,20 @@ Projetos acadêmicos utilizando HTML, CSS, JavaScript, React e Firebase.
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliarodrigues81&theme=github_dark)
-
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliarodrigues81&theme=github_dark)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliarodrigues81&theme=github_dark" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliarodrigues81&theme=github_dark" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-
 ### 🖤 Obrigada pela visita!
 
 Fique à vontade para explorar meus projetos e acompanhar minha evolução na programação.
