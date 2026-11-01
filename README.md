@@ -53,11 +53,15 @@ Projetos acadêmicos utilizando HTML, CSS, JavaScript, React e Firebase.
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliarodrigues81&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nataliarodrigues81&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="Estatísticas do GitHub" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarodrigues81&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarodrigues81&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA" alt="Linguagens mais utilizadas" />
+</p>
 
 ---
 
