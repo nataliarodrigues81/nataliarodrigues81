@@ -10,7 +10,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento Mobile.
 
 ---
 
-### 🇧🇷 Sobre mim
+###  Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma.
 - 💻 Explorando tecnologias Web e Mobile.
@@ -18,15 +18,9 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento Mobile.
 - 📚 Sempre aprendendo e buscando novos desafios.
 - 🌎 Interessada em tecnologia e inovação.
 
-### 🇺🇸 About me
-
-I'm a Multiplatform Software Development student interested in programming, web development, mobile applications and technology.
-
-I'm continuously learning and building projects to improve my development skills.
-
 ---
 
-### 🛠️ Tecnologias | Technologies
+### 🛠️ Tecnologias
 
 **Linguagens e desenvolvimento**
 
@@ -47,7 +41,7 @@ I'm continuously learning and building projects to improve my development skills
 
 ---
 
-### 📌 Projetos em destaque | Featured Projects
+### 📌 Projetos em destaque 
 
 **📱 Projetos Mobile**
 
@@ -67,9 +61,7 @@ Projetos acadêmicos utilizando HTML, CSS, JavaScript, React e Firebase.
 
 ---
 
-### 🖤 Let's connect!
+### 🖤 Obrigada pela visita!
 
-Thanks for visiting my profile!
-
-Obrigada pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução na programação.
+Fique à vontade para explorar meus projetos e acompanhar minha evolução na programação.
 
